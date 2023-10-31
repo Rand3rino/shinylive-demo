@@ -1,2 +1,4 @@
 project:
   title: "shinylive-demo"
+  type: website
+  output-dir: docs
